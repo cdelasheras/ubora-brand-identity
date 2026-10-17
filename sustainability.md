@@ -1,4 +1,4 @@
-# Identidad Ambiental — Ubora Solar
+# Identidad Ambiental — Ubora
 
 ## Declaración de sostenibilidad
 

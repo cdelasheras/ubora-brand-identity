@@ -1,10 +1,10 @@
-# Brand Overview — Ubora Solar
+# Brand Overview — Ubora
 
 ## Identidad corporativa
 
 | Campo | Valor |
 |---|---|
-| **Nombre** | Ubora Solar |
+| **Nombre** | Ubora |
 | **Sector** | Energías renovables / Autoconsumo energético |
 | **Sede** | Málaga Tech Park, Av. Juan López de Peñalver, 21, Málaga |
 | **Oficinas** | Málaga · Jaén · Almería |

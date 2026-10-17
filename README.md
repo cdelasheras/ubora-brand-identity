@@ -1,4 +1,4 @@
-# Ubora Solar — Brand Identity
+# Ubora — Brand Identity
 
 > Análisis completo de identidad de marca de [uborasolar.com](https://www.uborasolar.com)
 

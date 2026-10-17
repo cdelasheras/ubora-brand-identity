@@ -1,4 +1,4 @@
-# Arquitectura de Mensajes — Ubora Solar
+# Arquitectura de Mensajes — Ubora
 
 ## Mensaje central
 

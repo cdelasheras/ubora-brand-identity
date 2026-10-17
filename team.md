@@ -1,4 +1,4 @@
-# Equipo — Ubora Solar
+# Equipo — Ubora
 
 ## Dirección ejecutiva
 

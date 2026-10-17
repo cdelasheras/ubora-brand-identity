@@ -1,15 +1,15 @@
-# Logotipo — Ubora Solar
+# Logotipo — Ubora
 
 ## Información del logotipo
 
-**Nombre de marca:** Ubora Solar  
+**Nombre de marca:** Ubora  
 **Alt text usado en web:** "empresa energías renovables en Málaga" / "instaladores de energías renovables"
 
 ---
 
 ## Descripción del logotipo
 
-El logotipo de Ubora Solar combina el **wordmark "Ubora"** con una identidad visual relacionada con la energía renovable. La palabra "Ubora" proviene del swahili y significa **excelencia/calidad**, reforzando el posicionamiento premium y de responsabilidad global de la marca.
+El logotipo de Ubora combina el **wordmark "Ubora"** con una identidad visual relacionada con la energía renovable. La palabra "Ubora" proviene del swahili y significa **excelencia/calidad**, reforzando el posicionamiento premium y de responsabilidad global de la marca.
 
 ---
 
@@ -64,5 +64,5 @@ El logotipo aparece en:
 
 ## Solicitud de assets
 
-Para obtener los archivos oficiales del logotipo (SVG, PNG, AI, EPS) en todas sus versiones, contactar con el equipo de marketing de Ubora Solar:  
+Para obtener los archivos oficiales del logotipo (SVG, PNG, AI, EPS) en todas sus versiones, contactar con el equipo de marketing de Ubora:  
 📧 [email protected]

@@ -1,8 +1,8 @@
-# Voz y Tono — Ubora Solar
+# Voz y Tono — Ubora
 
 ## Personalidad de marca
 
-Ubora Solar habla como un **asesor experto y cercano** — alguien que conoce profundamente la tecnología solar pero que explica las cosas con claridad, sin jerga, con el cliente siempre en el centro.
+Ubora habla como un **asesor experto y cercano** — alguien que conoce profundamente la tecnología solar pero que explica las cosas con claridad, sin jerga, con el cliente siempre en el centro.
 
 ---
 

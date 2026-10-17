@@ -1,4 +1,4 @@
-# Cartera de Proyectos — Ubora Solar
+# Cartera de Proyectos — Ubora
 
 > Portfolio de +40 instalaciones en Andalucía (Málaga, Granada, Sevilla, Huelva, Jaén)
 

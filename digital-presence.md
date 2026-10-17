@@ -1,4 +1,4 @@
-# Presencia Digital — Ubora Solar
+# Presencia Digital — Ubora
 
 ## Sitio Web
 
