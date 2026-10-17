@@ -16,8 +16,8 @@ El logotipo de Ubora Solar combina el **wordmark "Ubora"** con una identidad vis
 ## Principios de uso
 
 ### Versiones del logotipo
-- **Versión principal:** Sobre fondo claro/blanco
-- **Versión negativa/invertida:** Sobre fondo oscuro o verde corporativo
+- **Versión principal (negro):** Sobre fondo crema `#EDE7E4` o claro
+- **Versión negativa (blanco):** Sobre Ubora Black `#000000` o fotografía oscura — es la versión más usada
 - **Versión monocromática:** Para uso en documentos, fax, grabado
 
 ### Espacio de protección
@@ -38,6 +38,17 @@ Mantener un área libre alrededor del logotipo equivalente a la altura de la let
 - ❌ Rotar el logotipo
 - ❌ Separar el icono del wordmark (salvo versión oficial de icono solo)
 - ❌ Recrear el logotipo con tipografías similares pero distintas
+
+---
+
+## Claim "Passion for Energy"
+
+Lettering de brocha en degradado magenta → azul (`#D30989 → #0A6DFA`, ver [colors.md](colors.md)). Acompaña al logotipo en portadas, cierres y piezas de marca.
+
+- Siempre como imagen (PNG/SVG con transparencia), nunca reescrito con una fuente.
+- Sobre fondo negro o foto oscura. Sobre crema solo si el contraste del magenta se mantiene.
+- Se coloca debajo y a la derecha del wordmark "Ubora", o solo en una esquina del pie.
+- No cambiar el degradado, no rellenarlo de un color plano, no deformarlo.
 
 ---
 
